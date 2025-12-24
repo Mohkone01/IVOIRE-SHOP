@@ -10,6 +10,28 @@ Ce projet implémente une solution complète de Business Intelligence comprenant
 - Des rapports et visualisations interactives Power BI
 - Une documentation technique détaillée
 
+## Aperçu des tableaux de bord
+
+### Tableau de bord des ventes
+Vue d'ensemble des indicateurs clés de performance avec montant total (13M FCFA), marge brute (6M FCFA), évolution temporelle et répartition par catégorie de produits.
+
+![Tableau de bord des ventes](PHOTOS-README/REPORTING%20IVOIRE%20SHOP%202_page-0001.jpg)
+
+### Analyse des produits
+Analyse détaillée du catalogue avec treemap des catégories, classement des produits les plus vendus et répartition des marges par segment.
+
+![Analyse des produits](PHOTOS-README/REPORTING%20IVOIRE%20SHOP%202_page-0003.jpg)
+
+### Analyse géographique
+Performance commerciale par magasin et région, permettant d'identifier les zones à fort potentiel et les opportunités d'expansion.
+
+![Analyse géographique](PHOTOS-README/REPORTING%20IVOIRE%20SHOP%202_page-0004.jpg)
+
+### Analyse des clients
+Segmentation de la clientèle (Standard/Premium), distribution par tranche d'âge et identification des clients à forte valeur.
+
+![Analyse des clients](PHOTOS-README/REPORTING%20IVOIRE%20SHOP%202_page-0005.jpg)
+
 ## Architecture
 
 ### Base de données : EntrepotVente
