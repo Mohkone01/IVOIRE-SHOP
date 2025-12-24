@@ -1,0 +1,9 @@
+# Power BI
+*.pbix.tmp
+
+# Fichiers temporaires Windows
+Thumbs.db
+desktop.ini
+
+# Fichiers système
+.DS_Store
